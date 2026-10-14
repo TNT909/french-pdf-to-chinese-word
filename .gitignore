@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+pages/
+*_blocks_with_page.json
+*_text.txt
+output.docx
+*_中文.docx
